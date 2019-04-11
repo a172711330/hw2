@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw2</string>
+    <string name="name" />
+    <string name="tall" />
+    <string name="weight" />
+    <string name="Meow" />
+</resources>
